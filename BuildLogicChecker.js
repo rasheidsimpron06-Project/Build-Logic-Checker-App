@@ -1,2 +1,2 @@
-let truthyOrFalsy = "freeCodeCamp";
+let truthyOrFalsy = "";
 console.log(Boolean(truthyOrFalsy));
