@@ -1,7 +1,3 @@
-let hasDeveloperJob = true;
-
-if (hasDeveloperJob) {
-  console.log("Timmy is employed as a developer.");
+if (isTimmyAGamer) {
+  console.log("Timmy loves to play World of Warcraft.");
 }
-
-let isTimmyAGamer = false;
